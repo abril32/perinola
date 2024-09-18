@@ -1,7 +1,6 @@
 from perinola import Perinola
 from apuesta import Apuesta
 
-
 p = Perinola()
 p.tirarPerinola()
 print(p)
